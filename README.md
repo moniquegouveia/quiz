@@ -60,10 +60,3 @@ The live link can be found here - https://moniquegouveia.github.io/quiz/
 - The icons were taken from [Font Awesome](https://fontawesome.com/);
 - Color scheme was taken from My Color Space ((https://mycolor.space/?hex=%23845EC2&sub=1);
 
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
