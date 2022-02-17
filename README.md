@@ -32,9 +32,9 @@ Testing for this quiz was done using the Google Chrome Browser, using Chrome Dev
 
 -__Languages__
 
--HTML5
--CSS
--Javascript
+- HTML5
+- CSS
+- Javascript
 
 ### Validator Testing 
 
