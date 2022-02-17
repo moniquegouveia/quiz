@@ -54,8 +54,7 @@ let questions = [
       "eXTra Multi-Program Language",
       "eXamine Multiple Language"
     ]
-  },
- {
+  }
  numb: 6,
 question: "There are 16 basic color keywords in CSS. Which of the following are NOT basic color keywords?",
 answer: "Olive",
