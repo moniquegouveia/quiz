@@ -12,7 +12,7 @@ In this program [Quiz App with Timer], there are three layers or boxes, and thes
 In this infobox, there are some rules of the quiz and two buttons labeled as “Exit” and “Continue”. When you clicked on the Exit button, the info box will be hidden but when you clicked on the Continue button, then the Quiz Box appears.
 
 
-!Infobox](https://github.com/moniquegouveia/quiz/blob/main/info-box.png)
+![Infobox](https://github.com/moniquegouveia/quiz/blob/main/info-box.png)
 
 - __Quiz Box__
 
@@ -24,24 +24,18 @@ If the user doesn’t select an option between 15 to 0 sec, the timer will be st
 
 In the end, the result box will be appeared and shown the user score and two buttons [Replay Quiz, Quit Quiz], if the user clicked on the replay quiz button, the quiz will again start with the number 1 question, and the score of the user will be 0 but if the user clicked on the quit quiz button, the current window will be reloaded and the quiz starts from the begin.
 
-  ![Quiz Box](https://github.com/moniquegouveia/quiz/blob/main/questions.png)
+ ![Quiz Box](https://github.com/moniquegouveia/quiz/blob/main/questions.png)
  
 
 ## Testing 
 Testing for this quiz was done using the Google Chrome Browser, using Chrome Developer Tools to check the different screensizes. Testing was also done on an iPhone 13 using Safari, as sometimes Safari can cause issues with how the website renders. No such errors were found.
-
-
-- Navigation - Repeated steps on all pages.
-
--__Landing page__
-- Verify that the scroll prompt works.
-- Verify that the link to recipes works.
 
 -__Languages__
 
 -HTML5
 -CSS
 -Javascript
+
 ### Validator Testing 
 
 
@@ -49,9 +43,6 @@ Testing for this quiz was done using the Google Chrome Browser, using Chrome Dev
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmoniquegouveia.github.io%2Frecipe%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
-### Unfixed Bugs
-
-Responsiveness needs to be improved as the flexbox property is undertood more deeply.
 
 ## Deployment
 
